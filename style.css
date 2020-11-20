@@ -8,8 +8,14 @@ h1 {
     text-align: center;
 }
 
+foto {
+    float: left;
+}
+
+
 .dados {
     font-family: 'Courier New', Courier, monospace;
+    
 }
 
 #hab1 {
